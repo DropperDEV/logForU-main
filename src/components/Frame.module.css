@@ -1,0 +1,10 @@
+.main {
+  display: grid;
+  width: auto;
+  height: var(--standard-frame-height);
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr;
+  margin-top: 6rem;
+
+  border-bottom: 8rem solid rgba(0, 0, 0, 0.95);
+}

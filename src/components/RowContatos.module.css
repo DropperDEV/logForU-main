@@ -1,0 +1,10 @@
+.divContatos{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    width: 75%;
+    height: 6rem;
+}

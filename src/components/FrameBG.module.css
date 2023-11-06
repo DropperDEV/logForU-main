@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Open+Sans:wght@600&display=swap");
+
+.main {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: var(--standard-frame-height);
+  margin-top: 6rem;
+  border-bottom: 8rem solid rgba(0, 0, 0, 0.95);
+
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assets/homepage-img.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+

@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inria+Sans:wght@300&family=Open+Sans:wght@600&display=swap");
+
+.divText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  width: 50rem;
+  height:fit-content;
+}
+
+.h1Homepage {
+  color: #fff;
+  font-family: "Archivo Black", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  height: fit-content;
+  width: fit-content;
+}
+
+.h2Homepage {
+  color: #fff;
+  font-family: "Archivo Black", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  height: fit-content;
+  width: fit-content;
+}
+
+.pHomepage {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  height: fit-content;
+  text-align: justify;
+}
+
+.h1Side {
+  color: #fff;
+  font-family: "Inria Sans", sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-left: 2rem;
+  margin-top: 13rem;
+}
+
+.pSide {
+  color: #fff;
+  font-family: "Inria Sans", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-left: 2rem;
+}
+
+.pContato {
+  color: #fff;
+  font-family: "Inria Sans", sans-serif;
+    font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

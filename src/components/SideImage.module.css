@@ -1,0 +1,10 @@
+.divImage {
+  width: 48rem;
+  height: var(--standard-frame-height);
+}
+
+.image {
+  width: 48rem;
+  height: var(--standard-frame-height);
+  filter: brightness(75%);
+}

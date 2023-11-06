@@ -1,0 +1,9 @@
+.divText {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: var(--standard-frame-height);
+    background-color: #000;
+    gap: 25%;
+  }
+  
